@@ -1,0 +1,1 @@
+# Helfertool logos and graphics

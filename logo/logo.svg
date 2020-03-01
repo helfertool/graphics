@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4670"
+   sodipodi:docname="logo.svg"
+   viewBox="0 0 708.6614 708.6614"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="200mm"
+   height="200mm">
+  <defs
+     id="defs3394" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="49"
+     pagecolor="#ffffff"
+     inkscape:window-maximized="0"
+     inkscape:zoom="0.61567384"
+     inkscape:window-x="0"
+     inkscape:window-height="1029"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="367.32634"
+     inkscape:cy="104.42643"
+     inkscape:window-width="1916"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="mm"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-7.5443,542.12141)">
+    <g
+       id="g3345"
+       transform="matrix(27.036019,0,0,27.036042,-2747.3844,-2315.6804)">
+      <rect
+         ry="0"
+         y="71.941574"
+         x="105.66481"
+         height="18.356487"
+         width="17.566961"
+         id="rect4761"
+         style="fill:none;fill-opacity:1;stroke:#1ea082;stroke-width:1.71635008;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path4833"
+         d="m 109.25326,80.151691 c 0,0 3.49984,5.856677 5.16377,5.721827 2.61185,-0.211676 10.20933,-18.459137 10.20933,-18.459137"
+         style="fill:none;fill-rule:evenodd;stroke:#1ea082;stroke-width:2.28846669;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3336"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(7.5443,-10.625336)"><flowRegion
+         id="flowRegion3338"
+         style="font-family:sans-serif"><rect
+           id="rect3340"
+           width="614.47577"
+           height="181.72644"
+           x="161.92746"
+           y="12.409479"
+           style="font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara3342"
+         style="font-size:125px;line-height:1.25;font-family:sans-serif">Helfertool--..</flowPara></flowRoot>  </g>
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
